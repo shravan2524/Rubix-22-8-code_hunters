@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+  font-family: 'Loto', sans-serif;
+}
+
+.main-container{
+    width: 100%;
+    height: 100vh;
+    background-size:cover !important;
+    background:linear-gradient(#dd58cec5,#e57cc4d5,#dd58cec4,#EC8385), url("../../../public/loginwebackground.jpg");
+    position: relative;
+}
